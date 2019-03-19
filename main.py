@@ -1,8 +1,3 @@
-
-
-
-__author__ = "Rohit Rane"
-
 import os
 import sys
 import pygame
